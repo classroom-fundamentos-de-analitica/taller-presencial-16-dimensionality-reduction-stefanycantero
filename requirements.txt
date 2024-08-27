@@ -1,2 +1,2 @@
-searborn
+seaborn
 umap-learn
